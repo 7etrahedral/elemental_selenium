@@ -1,0 +1,7 @@
+ENV['base_url']         ||= 'http://the-internet.herokuapp.com'
+ENV['host']               = 'soucelabs'
+ENV['operating_system'] ||= 'Windows XP'
+ENV['browser']          ||= 'internet_explorer'
+ENV['browser_version']  ||= '8'
+ENV['SOUCE_USERNAME']   ||= 'wibowobullseyegmail'
+ENV['SOUCE_ACCESS_KEY'] ||= 'Paramor3'

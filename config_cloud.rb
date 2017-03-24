@@ -1,5 +1,5 @@
 ENV['base_url']         ||= 'http://the-internet.herokuapp.com'
-ENV['host']               = 'soucelabs'
+ENV['host']               = 'local' #'soucelabs'
 ENV['operating_system'] ||= 'Windows XP'
 ENV['browser']          ||= 'internet_explorer'
 ENV['browser_version']  ||= '8'
